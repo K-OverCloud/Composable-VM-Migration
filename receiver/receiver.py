@@ -1,6 +1,6 @@
 '''
 Created on March 7, 2017
-@author: Jax, Hani
+@author: Jargal, Hani
 '''
 
 import pyinotify
